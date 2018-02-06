@@ -1,0 +1,37 @@
+﻿body{
+  background-color: #1a1a1a;
+  background: repeating-linear-gradient(#0d0d0d, #1a1a1a 2px, #0d0d0d 4px);
+  color: #66b3ff;
+  font-family: monospace;
+}
+
+h1{
+  text-align: center;
+}
+
+.buttons{
+  text-align: center; 
+}
+
+button{
+  margin: 0 0 10px 0;
+  border: 2px solid #66b3ff;
+  background-color: #1a1a1a;
+  background: linear-gradient(black, #1a1a1a, black);
+  color: #66b3ff;
+}
+
+.numBtns{
+  height: 50px;
+  font-size: large;
+}
+
+#random{
+  padding: 3px 5px;
+}
+
+#sonnet{
+  text-align: center;
+  font-size: 1.5em;
+  padding: 15px;
+}
